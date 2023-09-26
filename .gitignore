@@ -1,0 +1,7 @@
+.pyc
+Thumbs.db
+.ipynb_checkpoints
+__pycache__/
+.out
+.comet.config
+.pth
